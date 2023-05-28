@@ -1,5 +1,5 @@
 
-var nomes = ["Elton", "Francisco", "Caio"];
+var nomes = ["Elton", "Rafael", "Caio"];
 var nota1 = [7.5, 5.5, 8.5];
 var nota2 = [8.2, 6.5, 7.5];
 
