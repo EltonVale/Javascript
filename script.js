@@ -1,5 +1,5 @@
 
-var nomes = ["Elton", "Fabio", "Caio"];
+var nomes = ["Elton", "Francisco", "Caio"];
 var nota1 = [7.5, 5.5, 8.5];
 var nota2 = [8.2, 6.5, 7.5];
 
@@ -26,4 +26,3 @@ for (var index in nomes) {
 
 
 }
-
